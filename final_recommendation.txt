@@ -1,0 +1,11 @@
+A/B Testing Analysis Result
+
+Chi-square test shows a statistically significant difference in conversion rates.
+P-value is less than 0.05, so we reject the null hypothesis.
+
+Ad conversion rate: 2.55%
+PSA conversion rate: 1.79%
+Estimated improvement: 0.77%
+95% Confidence Interval: (0.60%, 0.94%)
+
+Business Recommendation: Continue running the ad campaign as it significantly improves conversions.
