@@ -1,6 +1,6 @@
 # A/B Testing – Hypothesis Testing in Python
 
-## 📌 Project Overview
+##  Project Overview
 
 This project performs A/B Testing analysis on a marketing campaign dataset to evaluate whether displaying advertisements increases user conversion rates compared to a Public Service Announcement (PSA).
 
@@ -8,13 +8,13 @@ The analysis includes hypothesis testing using the Chi-Square test, confidence i
 
 ---
 
-## 📊 Business Problem
+##  Business Problem
 
 Does showing advertisements significantly increase conversion rates compared to PSA?
 
 ---
 
-## 🧠 Hypothesis
+##  Hypothesis
 
 Null Hypothesis (H0):
 There is no difference in conversion rates between Ad and PSA groups.
@@ -26,7 +26,7 @@ Significance Level (α): 0.05
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 - Python
 - Pandas
@@ -37,7 +37,7 @@ Significance Level (α): 0.05
 
 ---
 
-## 📈 Statistical Method
+##  Statistical Method
 
 Chi-Square Test for Independence was used to compare conversion rates between:
 
@@ -46,7 +46,7 @@ Chi-Square Test for Independence was used to compare conversion rates between:
 
 ---
 
-## 📊 Results
+##  Results
 
 | Group | Total Users | Converted Users | Conversion Rate |
 |-------|------------|----------------|----------------|
@@ -59,7 +59,7 @@ Since p-value < 0.05, we reject the null hypothesis.
 
 ---
 
-## 📏 Confidence Interval
+##  Confidence Interval
 
 Estimated improvement in conversion rate:
 
@@ -71,7 +71,7 @@ Estimated improvement in conversion rate:
 
 ---
 
-## 📌 Business Conclusion
+##  Business Conclusion
 
 The advertisement campaign significantly improves conversion rates.
 
@@ -79,7 +79,7 @@ It is recommended to continue running the ad campaign as it provides measurable 
 
 ---
 
-## 📂 Project Files
+##  Project Files
 
 - task11_abtest.ipynb – Full analysis notebook
 - ab_test_summary.csv – Summary statistics
